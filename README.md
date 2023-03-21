@@ -4,6 +4,12 @@
 - Random Short is a simple program written in python that can sort an array of integers using the Bubble Sort algorithm. 
 - This program is designed to be a quick and easy solution for sorting small arrays of integers.
 
+<h1 align="center" >Requirements🧾</h1>
+
+- python 
+<div align="left" >
+<img height="100" wedith="100" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></div>
+<hr>
 <h1 align="center"> Getting Started</h1>
 
 - To get started with Random Short, you'll need to have a C compiler installed on your computer.
