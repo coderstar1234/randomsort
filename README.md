@@ -1,8 +1,8 @@
 
 <h1 align="center" >Random Short - A Simple python Program for Shorting</h1>
-Random Short is a simple program written in C that can sort an array of integers using the Bubble Sort algorithm. This program is designed to be a quick and easy solution for sorting small arrays of integers.
+Random Short is a simple program written in python that can sort an array of integers using the Bubble Sort algorithm. This program is designed to be a quick and easy solution for sorting small arrays of integers.
 
-Getting Started
+<h1 align="center"> Getting Started</h1>
 To get started with Random Short, you'll need to have a C compiler installed on your computer. Random Short has been tested with GCC and Clang, but it should work with any C compiler that supports the C99 standard.
 
 Clone the repository to your local machine: git clone https://github.com/your-username/random-short.git
