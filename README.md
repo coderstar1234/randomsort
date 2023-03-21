@@ -9,7 +9,7 @@
 
 - python 
 <div align="left" >
-<img height="100" wedith="100" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></div>
+<img height="100" wedith="100" src="#"></div>
 <hr>
 <h1 align="center"> Getting Started🏃</h1>
 
