@@ -34,7 +34,8 @@ Run the program: ./random_short
 
 <h1 align="center" >Contributing👬</h1>
 
-- If you find a bug or have a feature request, please open an issue on GitHub. Pull requests are also welcome.
+- If you find a bug or have a feature request, please open an issue on GitHub. 
+- Pull requests are also welcome.
 
 <h1 align="center" >License📙</h1>
 
