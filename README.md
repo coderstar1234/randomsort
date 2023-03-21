@@ -10,9 +10,14 @@
 -  Random Short has been tested with GCC and Clang, but it should work with any C compiler that supports the C99 standard.
 
 Clone the repository to your:
- local machine: git clone https://github.com/your-username/random-short.git
+<h3 align=" center" >local machine:📺 </h3>
+
+<p  align=" center" >git clone :📝<br> https://github.com/your-username/random-short.git</p>
+  
+
 Compile the program using your preferred C.
- compiler: gcc random_short.c -o random_short
+ <h3 align=" center" >compiler:📺 </h3>
+- gcc random_short.c -o random_short
 Run the program: ./random_short
 <h1 align="center" >Usage</h1>
 
