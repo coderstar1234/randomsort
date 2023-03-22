@@ -9,7 +9,7 @@
 
 - python 
 <div align="left" >
-<img height="100" wedith="100" src="#"></div>
+<img height="100" wedith="100" src="https://1.bp.blogspot.com/-0l6vkEVVfTw/XUGXoMER78I/AAAAAAAAZNM/b6HBxSX3HUY85evjzXqXKZYy9Xp3Zd3mQCLcBGAs/s1600/giphyPYTHON.gif"></div>
 <hr>
 <h1 align="center"> Getting Started🏃</h1>
 
