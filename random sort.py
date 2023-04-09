@@ -21,6 +21,7 @@ except EOFError:
 a =[]
 b =[]
 c =[]
+
 while(len(a)<100):
    y = random.randint(1,100)
    if y in c:
