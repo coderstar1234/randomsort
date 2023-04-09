@@ -1,4 +1,6 @@
+
 import random
+
 
 first select catagory 
    r for random number
