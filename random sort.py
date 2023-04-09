@@ -76,7 +76,8 @@ elif t == 'o':
             print(b[i])
             if b[i] == o:
                print(f"found as no. {i+1} in list")
-               print(f"norm: {c[i]} hex: {a[i]} oct: {o}")
+               
+print(f"norm: {c[i]} hex: {a[i]} oct: {o}")
                break
      else:
          print("\noct value not found")
