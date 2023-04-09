@@ -1,6 +1,5 @@
 import random
-# find when your number was randomly found or when your hex or oct value was randomly found.
-"""
+
 first select catagory 
    r for random number
    h for random hex
