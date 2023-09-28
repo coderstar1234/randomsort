@@ -8,7 +8,7 @@
 <img height="200" wedith="200" src="https://media.giphy.com/media/3o6Zt5jXXzAzdikVmE/giphy.gif"></p>
 
 <hr>
-<h1 align="center" >Requirements🧾</h1>
+<h1 align="center" >Requirements:-🧾</h1>
 
 - python 
 <div align="left" >
