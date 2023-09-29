@@ -35,7 +35,7 @@ Run the program: ./random_short<hr>
 - Random Short takes an array of integers as input, sorts them using the Bubble Sort algorithm, and outputs the sorted array to the console.
 - To use Random Short, simply modify the main() function in the random_short.c file to include your own array of integers, then compile and run the program as described in the 🏃 Getting Started section.
 <hr>
-<h1 align="center" >Contributing👬</h1>
+<h1 align="center" >Contributing:-👬</h1>
 
 - If you find a bug or have a feature request, please open an issue on GitHub. 
 - Pull requests are also welcome.
