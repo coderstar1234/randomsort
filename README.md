@@ -40,7 +40,7 @@ Run the program: ./random_short<hr>
 - If you find a bug or have a feature request, please open an issue on GitHub. 
 - Pull requests are also welcome.
 <hr>
-<h1 align="center" >License📙</h1>
+<h1 align="center" >License:📙</h1>
 
 - Random Short is released under the MIT License. See LICENSE for details.
 
