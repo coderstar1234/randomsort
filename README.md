@@ -22,7 +22,7 @@
 Clone the repository to your:
 <h3 align=" center" >local machine:📺 </h3>
 
-<p  align=" center" >git clone :📝<br> https://github.com/your-username/random-short.git</p>
+<p  align=" center" >git clone :-📝<br> https://github.com/your-username/random-short.git</p>
   
 
 Compile the program using your preferred C.<hr>
