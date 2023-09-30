@@ -30,7 +30,7 @@ Compile the program using your preferred C.<hr>
 
 - gcc random_short.c -o random_short
 Run the program: ./random_short<hr>
-<h1 align="center" >Usage👩‍💻</h1>
+<h1 align="center" >Usage:👩‍💻</h1>
 
 - Random Short takes an array of integers as input, sorts them using the Bubble Sort algorithm, and outputs the sorted array to the console.
 - To use Random Short, simply modify the main() function in the random_short.c file to include your own array of integers, then compile and run the program as described in the 🏃 Getting Started section.
