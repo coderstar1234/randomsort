@@ -14,7 +14,7 @@
 <div align="left" >
 <img height="100" wedith="100" src="https://1.bp.blogspot.com/-0l6vkEVVfTw/XUGXoMER78I/AAAAAAAAZNM/b6HBxSX3HUY85evjzXqXKZYy9Xp3Zd3mQCLcBGAs/s1600/giphyPYTHON.gif"></div>
 <hr>
-<h1 align="center"> Getting Started🏃</h1>
+<h1 align="center"> Getting Started:-🏃</h1>
 
 - To get started with Random Short, you'll need to have a C compiler installed on your computer.
 -  Random Short has been tested with GCC and Clang, but it should work with any C compiler that supports the C99 standard.
