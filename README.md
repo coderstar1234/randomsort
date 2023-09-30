@@ -26,7 +26,7 @@ Clone the repository to your:
   
 
 Compile the program using your preferred C.<hr>
- <h3 align=" center" >compiler:🖥️ </h3>
+ <h3 align=" center" >compiler:-🖥️ </h3>
 
 - gcc random_short.c -o random_short
 Run the program: ./random_short<hr>
