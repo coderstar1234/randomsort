@@ -20,7 +20,7 @@
 -  Random Short has been tested with GCC and Clang, but it should work with any C compiler that supports the C99 standard.
 
 Clone the repository to your:
-<h3 align=" center" >local machine:📺 </h3>
+<h3 align=" center" >local machine:-📺 </h3>
 
 <p  align=" center" >git clone :-📝<br> https://github.com/your-username/random-short.git</p>
   
