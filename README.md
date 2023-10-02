@@ -1,5 +1,6 @@
 
 <h1 align="center" >Random Short 😱:- </h1>
+
 <h2 align=" center" >A Simple python Program 🧩 for Shorting:-🦈</h2>
 
 - Random Short is a simple program written in python that can sort an array of integers using the Bubble Sort algorithm. 
